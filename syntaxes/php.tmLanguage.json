@@ -1,0 +1,15 @@
+{
+    "scopeName": "php.injection",
+    "injectionSelector": "L:comment.block.documentation.phpdoc.php",
+    "patterns": [
+        {
+            "include": "#tools-keywords"
+        }
+    ],
+    "repository": {
+        "tools-keywords": {
+            "match": "@[\\w-]+",
+            "name": "keyword.tools"
+        }
+    }
+}
