@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/InjustFr/better-php-annotation-keywords-colorization.git"
     },
-    "publisher": "InjustFr",
+    "publisher": "injust",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.70.0"
